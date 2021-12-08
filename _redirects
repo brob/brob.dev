@@ -4,5 +4,6 @@
 /ssg-starter https://www.sanity.io/create?template=brob/sanity-template-pure-html
 /tmj         https://thatsmyjamstack.com
 /madlibs     https://brob-madlibs.netlify.app/
+/serverless-search https://www.algolia.com/blog/engineering/building-server-rendered-search-for-static-sites-with-11ty-serverless-netlify-and-algolia/
 #fallback
 /*           https://bryanlrobinson.com
