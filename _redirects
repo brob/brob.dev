@@ -5,7 +5,9 @@
 /ssg-starter https://www.sanity.io/create?template=brob/sanity-template-pure-html
 /tmj         https://thatsmyjamstack.com
 /madlibs     https://brob-madlibs.netlify.app/
-/serverless-search https://www.algolia.com/blog/engineering/building-server-rendered-search-for-static-sites-with-11ty-serverless-netlify-and-algolia/
+/serverless-search https://www.algolia.com/blog/engineering/
+building-server-rendered-search-for-static-sites-with-11ty-serverless-netlify-and-algolia/
+/dynamic-route https://app.hygraph.com/clone/751a6bdf9431476c8b82c543895e6d16?name=Implementation%20Guides
+
 #fallback
 /*           https://bryanlrobinson.com
-/dynamic-route https://app.hygraph.com/clone/751a6bdf9431476c8b82c543895e6d16?name=Implementation%20Guides
